@@ -1,0 +1,1 @@
+Instalar ffmpeg e adicionar em PATH.
